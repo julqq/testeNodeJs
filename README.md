@@ -16,7 +16,7 @@ caso contrario retornara o erro que aconteceu.
     observacões
 
     Não consegui conectar ao servidor que foi fornecido para o exercicio entao todos os meus testes foram 
-    feitos em um database que criada localmente com os dados de criação de tabela fornecidos>>>
+    feitos em um database que  foi criada localmente com os dados de criação de tabela fornecidos>>>
 
             CREATE TABLE `dados_dep` (
         `id` int(11) NOT NULL AUTO_INCREMENT,
